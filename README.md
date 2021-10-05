@@ -1,5 +1,9 @@
-
-
+<!DOCTYPE html><html lang="en">
+    <title>THE MINI-PROJECT</title>
+    <head>
+    <title>JSX</title>
+    <link rel="CLOCK" href="MINI-PROJECT.htm" />
+  </head>
      <style>
 html {
   background-color:#FDF5E6;
