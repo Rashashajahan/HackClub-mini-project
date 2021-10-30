@@ -2,4 +2,4 @@
 Web development
 
 <li><a href=
-"https://in.linkedin.com/company/shapeai">My Project</a>
+"https://github.com/Rashashajahan/HackClub-mini-project/blob/main/MINI%20pro.html">My Project</a>
